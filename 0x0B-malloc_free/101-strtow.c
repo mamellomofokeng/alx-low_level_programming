@@ -7,9 +7,7 @@
  *
  *Return: number of words
  */
-
 int count_word(char *s)
-
 {
 	int flag, c, w;
 
@@ -28,7 +26,6 @@ int count_word(char *s)
 	}
 
 	return (w);
-
 }
 
 /**
